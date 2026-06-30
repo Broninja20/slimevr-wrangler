@@ -54,5 +54,5 @@ codegen-units = 1
 opt-level = "s"
 strip = true
 [patch.crates-io]
-joycon_rs = { git = "https://github.com", branch = "master" }
+joycon_rs = { git = "https : //github.com/Broninja20/joycon-rs", branch = "master" }
 
