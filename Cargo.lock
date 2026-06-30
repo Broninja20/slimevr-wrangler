@@ -7208,3 +7208,8 @@ dependencies = [
  "quote",
  "syn 2.0.98",
 ]
+
+[[patch.unused]]
+name = "joycon-rs"
+version = "0.6.3"
+source = "git+https://github.com/Broninja20/joycon-rs?branch=master#4d9342b365d6c745fefdceedc4403494e54686a4"
